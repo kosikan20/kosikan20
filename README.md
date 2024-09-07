@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 
 ## 🛠️ Skills & Technologies
 - **Frontend**: Next.js, Tailwind CSS, Svelte
-- **Backend**: Express, Node.js, MongoDB, MySQL, Prisma
+- **Backend**: Express, Node.js, MongoDB, MySQL, Prisma, Nest
 - **Languages**: TypeScript, Java, JavaScript
 - **Concepts**: Problem Solving, Algorithms, Object-Oriented Programming (OOP)
-- **Others**: Sanity
+- **Others**: Sanity,
 
 ## 📫 Get in Touch
 - **LinkedIn**: [kosikan-nanthan](https://www.linkedin.com/in/kosikan-nanthan)
