@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 - **Backend**: Express, Node.js, MongoDB, MySQL, Prisma, Nest
 - **Languages**: TypeScript, Java, JavaScript
 - **Concepts**: Problem Solving, Algorithms, Object-Oriented Programming (OOP)
-- **Others**: Sanity,
+- **Others**: Sanity, Jira,
 
 ## 📫 Get in Touch
 - **LinkedIn**: [kosikan-nanthan](https://www.linkedin.com/in/kosikan-nanthan)
