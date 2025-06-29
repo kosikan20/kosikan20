@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 - **⚡ Fun Fact**: I have a deep love for both music and coding—two things that keep my creativity flowing!
 
 ## 🛠️ Skills & Technologies
-- **Frontend**: Next.js, Tailwind CSS, Svelte
+- **Frontend**: React.js, Next.js, Tailwind CSS, Svelte
 - **Backend**: Express, Node.js, MongoDB, MySQL, Prisma, Nest
 - **Languages**: TypeScript, Java, JavaScript
 - **Concepts**: Problem Solving, Algorithms, Object-Oriented Programming (OOP)
