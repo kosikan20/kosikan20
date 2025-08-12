@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 ## 📫 Get in Touch
 - **LinkedIn**: [kosikan-nanthan](https://www.linkedin.com/in/kosikan-nanthan)
 - **Linktree**: [Visit my Linktree](https://linktr.ee/kosikan)
-- **LinkedIn**: [My Site](https://www.kosikan.vercel.app)
+- **LinkedIn**: [My Site](https://kosikan.vercel.app)
 
 Feel free to reach out if you want to collaborate or just chat about tech and music!
 
